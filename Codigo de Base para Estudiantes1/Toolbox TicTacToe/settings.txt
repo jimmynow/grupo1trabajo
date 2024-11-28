@@ -1,0 +1,2 @@
+timeLim = 20;
+agentProf = 'rand';
